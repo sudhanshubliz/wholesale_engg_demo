@@ -1,0 +1,50 @@
+{
+	
+	"ownerAddress":{
+		   
+		   "phoneNumber":"22222344",
+		   "address":"B/2",
+		   "pinCode":"110096"
+	},
+	"coffeeType": [{
+			"coffeeName":"Caffechino",
+			"price":100
+			
+		},{
+			"coffeeName":"Latte",
+			"price":200
+		},
+		{
+			"coffeeName":"Cold Coffer",
+			"price":300
+		}
+		]
+	 ,
+	"noOfQueue":10,
+	"maxSizeofQueue":30,
+    "openTime":"08:00 AM",
+    "closeTime":"22:00 PM",
+    "customerDetails":[{
+    	 
+    	"customerName":"Ram",
+    	"emaild":"ram@gmail.com",
+    	"phoneNumber":"9910092975",
+    	"scoreNumber":0
+    },
+    {
+    	 
+    	"customerName":"Shayam",
+    	"emaild":"shyam@gmail.com",
+    	"phoneNumber":"9910092975",
+    	"scoreNumber":0
+    },
+    {
+    	 
+    	"customerName":"Shivam",
+    	"emaild":"shivam@gmail.com",
+    	"phoneNumber":"9910092975",
+    	"scoreNumber":0
+    }
+    ]
+		   
+}
